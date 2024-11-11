@@ -1,0 +1,14 @@
+copyright goes to hacker_ji
+message forward script for discord
+
+######################################################
+
+npm init -y //make-dir for your own pc
+//use bot hosting
+
+npm install discord.js //packages
+
+node node.js //start-up for your own pc
+
+
+######################################################
